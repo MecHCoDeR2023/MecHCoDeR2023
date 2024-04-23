@@ -6,7 +6,7 @@ Hello! I'm Gokul, a B.Tech graduate in Mechanical Engineering with a passion for
 
 **Current Focus**
 
-I'm currently focusing on becoming an aspiring DevOps professional, aiming to leverage my engineering background to drive efficiency and automation in software development and deployment processes.
+I'm currently focusing on becoming a DevOps professional, aiming to leverage my engineering background to drive efficiency and automation in software development and deployment processes.
 
 
 🎓 **Qualification**
